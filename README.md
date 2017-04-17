@@ -9,3 +9,5 @@ About:
 The animated character code is was originally written by William Malone and is borrowed from:
 http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/
 
+Name: Nan's chatbot
+(PENDING...)
